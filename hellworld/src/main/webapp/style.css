@@ -1,0 +1,18 @@
+
+h1, h2, form{
+	text-align: center;
+}
+html{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 80%;
+	margin: auto;
+	
+}
+
+input, label{
+	margin-bottom: 5px;
+	
+}
